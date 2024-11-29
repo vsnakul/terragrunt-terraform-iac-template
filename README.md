@@ -72,7 +72,7 @@ By adopting this structure, you can centralize and manage shared configurations 
 
 This repository offers a structured template for enhancing the maintainability of Infrastructure as Code (IaC) using Terraform.
 
-Alongside this repository, you'll find an in-depth [blog post](https://example.com) that explores the rationale behind this methodology, highlights its benefits, and offers practical guidance for its application.
+Alongside this repository, you'll find an in-depth [blog post](https://medium.com/@vsnakul/terraform-tips-simple-strategies-for-smarter-infrastructure-f4ef9a9ac582) that explores the rationale behind this methodology, highlights its benefits, and offers practical guidance for its application.
 
 
 
@@ -157,6 +157,6 @@ To begin using this repository, simply clone it to your local machine and follow
 
 ### References
 
-**Terraform Tips: Simple Strategies for Smarter Infrastructure** - [blog](https://example.com)
+**Terraform Tips: Simple Strategies for Smarter Infrastructure** - [blog](https://medium.com/@vsnakul/terraform-tips-simple-strategies-for-smarter-infrastructure-f4ef9a9ac582)
 
 **Terragrunt**: [official terragrunt documentation](https://terragrunt.gruntwork.io/docs/getting-started/quick-start/)
