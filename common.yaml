@@ -1,0 +1,13 @@
+app_settings:
+  account: "12345678"
+  aws_region: "eu-central-1"
+  env: "staging"
+  domain_name: ""
+  tags:
+    Terraform: "true"
+    Environment: "staging"
+  remote_state_bucket: "your_s3_bucket_name"
+  remote_state_dynamodb_table: "your_dynamodb_table_name"
+  provider_versions:
+    aws_provider: "~> 4.3"
+  terraform_version: "= 1.5.0"

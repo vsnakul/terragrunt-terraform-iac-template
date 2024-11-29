@@ -1,0 +1,12 @@
+app_settings:
+  component: "ec2-instance"
+
+instance:
+  ami_id: ami-0c55b159cbfafe1f0
+  instance_type: t2.micro
+  key_name: mykey
+  security_groups:
+    - mysg
+  subnet_id: subnet-0f9b2238
+  iam_instance_profile: myprofile
+  key_name: mykey

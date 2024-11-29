@@ -1,0 +1,7 @@
+app_settings:
+  component: "eks-cluster"
+
+eks_cluster:
+  eks_version: "1.27"
+  ami_id: "ami-06cacf3e70f5c106b"
+  instance_types: ["t3.medium"]

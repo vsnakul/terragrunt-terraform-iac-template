@@ -1,0 +1,13 @@
+app_settings:
+  component: "rds-instance"
+
+instance:
+  allocated_storage: 10
+  engine: mysql
+  instance_class: db.t3.micro
+  skip_final_snapshot: true
+  username: foo
+  password: foobarbaz
+
+# Never hardcode credentials in your code. Always try safe approaches like refering secrets from 
+# secret management tools
